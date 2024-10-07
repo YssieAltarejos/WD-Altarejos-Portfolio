@@ -1,0 +1,152 @@
+* {
+  background-color: #fcf7ff;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #00171f;
+  font-family: Arial, Helvetica, sans-serif;
+  outline: red dashed 1px;
+}
+
+a {
+  color: #00171f;
+  text-decoration: none;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem 1.5rem 2rem;
+  height: 8dvh;
+  background-color: #fcf7ffe3;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+.logo {
+  width: 5rem;
+  background: transparent;
+}
+
+.header nav {
+  display: flex;
+  justify-content: end;
+  gap: 3rem;
+  background: transparent;
+
+  .btn {
+    padding: 0.8rem;
+    border-bottom: 2px transparent solid;
+    text-transform: uppercase;
+    background: transparent;
+
+    p {
+      background: transparent;
+    }
+
+    &.active {
+      border-bottom: 3px #0092cc solid;
+      font-weight: 700;
+    }
+  }
+}
+
+#abtme {
+  height: 60dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+  padding: 2rem;
+  background: #00171f;
+}
+
+.abttxt {
+  display: flex;
+  flex-direction: column;
+  background: transparent;
+
+  h3 {
+    color: #fcf7ff;
+    background: transparent;
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    letter-spacing: 3px;
+    font-weight: 300;
+  }
+
+  h4 {
+    color: #fcf7ff;
+    background: transparent;
+    font-size: 35px;
+  }
+
+  p {
+    color: #fcf7ff;
+    background: transparent;
+    padding-top: 1rem;
+  }
+}
+
+#abtme img {
+  width: 30dvh;
+  max-width: 50dvh;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px #fcf7ff;
+}
+
+.educ {
+  display: flex;
+  display: flex;
+  flex-direction: column;
+  height: 30dvh;
+  background: #00171f;
+  padding-left: 2rem;
+  h4 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    color: #fcf7ff;
+    background: transparent;
+    padding-left: 2rem;
+  }
+  p {
+    background: transparent;
+    color: #fcf7ff;
+    padding: 0rem 2.5rem;
+    padding-top: 1rem;
+  }
+}
+
+.exp {
+  display: flex;
+  flex-direction: column;
+  height: 50dvh;
+  background: #00171f;
+  padding: 2rem;
+
+  h4 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    color: #fcf7ff;
+    background: transparent;
+    padding-left: 2rem;
+  }
+  h3 {
+    padding-left: 2rem;
+    background: transparent;
+    font-size: 15pt;
+    font-weight: 800;
+    color: #fcf7ff;
+  }
+  p {
+    background: transparent;
+    color: #fcf7ff;
+    padding: 0rem 2.5rem;
+    padding-top: 1rem;
+  }
+}
