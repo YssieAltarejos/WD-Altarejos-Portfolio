@@ -118,4 +118,4 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Instagram Logo | Redirect user to Instagram page | https://icons8.com/icons/set/instagram |
+| Portfolio Grid | Display images in portfolio in a grid | https://blog.pixelfreestudio.com/how-to-create-a-flexible-image-gallery-with-css-grid/ |
