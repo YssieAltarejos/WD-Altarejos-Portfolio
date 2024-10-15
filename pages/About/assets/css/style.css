@@ -35,7 +35,7 @@ a {
 .header nav {
   display: flex;
   justify-content: end;
-  gap: 3rem;
+  gap: 2rem;
   background: transparent;
 
   .btn {
@@ -46,6 +46,7 @@ a {
 
     p {
       background: transparent;
+      font-size: 14px;
     }
 
     &.active {
@@ -62,7 +63,6 @@ a {
   align-items: center;
   justify-content: center;
   gap: 3rem;
-  background: #00171f;
 }
 
 .abttxt {
@@ -71,7 +71,7 @@ a {
   background: transparent;
 
   h3 {
-    color: #fcf7ff;
+    color: #0092cc;
     background: transparent;
     font-size: 70px;
     font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
@@ -79,14 +79,26 @@ a {
     font-weight: 300;
   }
 
-  h4 {
-    color: #fcf7ff;
-    background: transparent;
-    font-size: 35px;
+  .abtcont {
+    display: flex;
+
+    img {
+
+    }
+    
+    h4 {
+      color: #00171f;
+      background: transparent;
+      font-size: 35px;
+    }
+  }
+  
+  .cancer {
+    width: 20dvw;
   }
 
   p {
-    color: #fcf7ff;
+    color: #00171f;
     background: transparent;
     padding-top: 1rem;
   }
@@ -97,49 +109,50 @@ a {
   max-width: 50dvh;
   height: auto;
   border-radius: 10px;
-  box-shadow: 0 4px 8px #fcf7ff;
 }
 
 .educ {
   display: flex;
-  display: flex;
   flex-direction: column;
-  height: 50dvh;
+  justify-content: center;
+  height: 60dvh;
   background: #00171f;
-  padding-left: 2rem;
-  padding-top: 5rem;
+  padding-left: 4rem;
   h4 {
     font-size: 50px;
     text-transform: uppercase;
     color: #fcf7ff;
     background: transparent;
-    padding-left: 2rem;
+  }
+  h5 {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #fcf7ff;
+    background: transparent;
   }
   p {
     background: transparent;
     color: #fcf7ff;
-    padding: 0rem 2.5rem;
-    padding-top: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 1rem;
   }
 }
 
 .exp {
   display: flex;
   flex-direction: column;
-  height: 50dvh;
+  justify-content: center;
+  height: 60dvh;
   background: #00171f;
-  padding-left: 2rem;
-  padding-top: 5rem;
+  padding-left: 4rem;
 
   h4 {
     font-size: 50px;
     text-transform: uppercase;
     color: #fcf7ff;
     background: transparent;
-    padding-left: 2rem;
   }
   h3 {
-    padding-left: 2rem;
     background: transparent;
     font-size: 15pt;
     font-weight: 800;
@@ -148,7 +161,49 @@ a {
   p {
     background: transparent;
     color: #fcf7ff;
-    padding: 0rem 2.5rem;
-    padding-top: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+}
+
+#contact {
+  height: 11dvh;
+  padding: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #d9d7ea;
+
+  .clogo {
+    width: 7dvh;
+    height: auto;
+    background: transparent;
+  }
+
+  .socmed {
+    background: transparent;
+    display: flex;
+    gap: 0.5rem;
+    a {
+      background: transparent;
+      img {
+        background: transparent;
+        width: 4.5dvh;
+      }
+    }
+  }
+  .links {
+    display: flex;
+    gap: 5rem;
+    background: transparent;
+
+    a {
+      background: transparent;
+      p {
+        background: transparent;
+        font-size: 14px;
+        color: #00171f;
+      }
+    }
   }
 }
