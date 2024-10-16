@@ -56,7 +56,7 @@ a {
 }
 
 .hero {
-  height: 80dvh;
+  height: 70dvh;
   display: flex;
   flex-direction: column;
   margin: 6.3rem 1rem;
