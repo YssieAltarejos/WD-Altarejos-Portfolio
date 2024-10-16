@@ -5,7 +5,6 @@
   box-sizing: border-box;
   color: #00171f;
   font-family: Arial, Helvetica, sans-serif;
-  outline: red dashed 1px;
 }
 
 a {
@@ -28,7 +27,7 @@ a {
 }
 
 .logo {
-  width: 5rem;
+  width: 10dvh;
   background: transparent;
 }
 
@@ -57,7 +56,7 @@ a {
 }
 
 .portfolio {
-  height: 400dvh;
+  height: 300dvh;
   padding-top: 5rem;
   display: flex;
   flex-direction: column;
@@ -75,13 +74,15 @@ a {
     width: 1000px;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    grid-gap: 10px;
+    grid-gap: 15px;
+
 }
 
 .pcontainer img {
     width: 100%;
     height: auto;
     object-fit: cover;
+    padding-bottom: .5rem;
 }
 
 #contact {
