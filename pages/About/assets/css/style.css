@@ -78,24 +78,26 @@ a {
     font-weight: 300;
   }
 
-  .abtcont {
-    display: flex;
+}
+.abtcont {
+  display: flex;
 
-    h4 {
-      color: #00171f;
-      background: transparent;
-      font-size: 35px;
-    }
-  }
-
-  p {
+  h4 {
     color: #00171f;
     background: transparent;
-    padding-top: 1rem;
+    font-size: 35px;
+  }
+  img {
+    width: 50px;
+    height: auto;
+    background: transparent;
   }
 }
-.abtcont img {
-  width: 10dvw;
+
+p {
+  color: #00171f;
+  background: transparent;
+  padding-top: 1rem;
 }
 
 #abtme img {
@@ -109,6 +111,7 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   height: 50dvh;
   background: #00171f;
   padding-left: 4rem;
@@ -138,9 +141,11 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  height: 50dvh;
+  align-items: center;
+  height: 70dvh;
   background: #00171f;
   padding-left: 4rem;
+  padding-top: ;
 
   h4 {
     font-size: 50px;

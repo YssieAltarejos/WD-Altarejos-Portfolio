@@ -137,11 +137,10 @@ a {
 }
 
 #abtme img {
-  width: 30dvh;
-  max-width: 50dvh;
+  width: 70dvh;
   height: auto;
   border-radius: 10px;
-  box-shadow: 0 4px 8px #014a634f;
+  background: transparent;
 }
 
 .flow {
