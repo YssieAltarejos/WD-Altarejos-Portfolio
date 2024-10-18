@@ -57,18 +57,7 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-      The project is to make a portofolio website that can serve as a resume for the students.
-
-- Whats the purpose
-      To make sure that the students can grasp how to use html and css in making a front-end website. The output can then be used by the students in showcasing and keeping track of their portfolio.
-
-- What are key components
-    Some of the key components of my portfolio is that it's a multipage website, it has links that will redirect you to my social media accounts and other contact info, and a photo gallery showcasing the projects.
-
-- What technology used and how it is used
-    This website was made using HTML and CSS. The HTML was used for making the structure of the website and its contents while the CSS was used for the formatting and aesthetics.
+- The project is to make a portofolio website that can serve as a resume for the students. To make sure that the students can grasp how to use html and css in making a front-end website. The output can then be used by the students in showcasing and keeping track of their portfolio. Some of the key components of my portfolio is that it's a multipage website, it has links that will redirect you to my social media accounts and other contact info, and a photo gallery showcasing the projects. This website was made using HTML and CSS. The HTML was used for making the structure of the website and its contents while the CSS was used for the formatting and aesthetics.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
