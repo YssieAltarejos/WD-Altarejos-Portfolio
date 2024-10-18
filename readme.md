@@ -18,7 +18,7 @@
 
 <br />
 
-![](https://visit-counter.vercel.app/counter.png?page=YssieAltarejos/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=YssieAltarejos/WD-Altarejos-Portfolio)
 
 ---
 
