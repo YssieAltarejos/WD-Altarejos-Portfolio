@@ -108,8 +108,8 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-
+| Title | Purpose | Link |
+|-|-|-|
 | Icons | All icons used here were  downloaded from Icons8. | https://icons8.com/icons | <br>
 | MailTo | Redirect to email. | https://blog.hubspot.com/website/html-mailto | <br>
 | In-between image | Place image in between 2 sections.  | https://stackoverflow.com/questions/41917741css-how-to-place-image-between-2-section-divs#:~:text=You%20can%20add%202%20parents,place%20it%20at%20desired%20position. | <br>
