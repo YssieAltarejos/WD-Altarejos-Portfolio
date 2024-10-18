@@ -118,4 +118,5 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| In-between image | Place image in between 2 sections.  | https://stackoverflow.com/questions/41917741/css-how-to-place-image-between-2-section-divs#:~:text=You%20can%20add%202%20parents,place%20it%20at%20desired%20position. |
 | Portfolio Grid | Display images in portfolio in a grid | https://blog.pixelfreestudio.com/how-to-create-a-flexible-image-gallery-with-css-grid/ |
