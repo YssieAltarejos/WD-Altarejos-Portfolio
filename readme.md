@@ -9,11 +9,11 @@
     <img src="./assets/img/logo-b-06.png" alt="Y_A" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center"></h3>
+  <h3 align="center">MultiMedia Portfolio - Yssie Altarejos</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  A compilation of my projects and a glimpse of who I am.
 </div>
 
 <br />
@@ -113,7 +113,7 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
 
-| Icons | All icons used here were  downloaded from Icons8. | https://icons8.com/icons |
-| MailTo | Redirect to email. | https://blog.hubspot.com/website/html-mailto |
-| In-between image | Place image in between 2 sections.  | https://stackoverflow.com/questions/41917741/css-how-to-place-image-between-2-section-divs#:~:text=You%20can%20add%202%20parents,place%20it%20at%20desired%20position. |
-| Portfolio Grid | Display images in portfolio in a grid | https://blog.pixelfreestudio.com/how-to-create-a-flexible-image-gallery-with-css-grid/ |
+| Icons | All icons used here were  downloaded from Icons8. | https://icons8.com/icons | <br>
+| MailTo | Redirect to email. | https://blog.hubspot.com/website/html-mailto | <br>
+| In-between image | Place image in between 2 sections.  | https://stackoverflow.com/questions/41917741/css-how-to-place-image-between-2-section-divs#:~:text=You%20can%20add%202%20parents,place%20it%20at%20desired%20position. | <br>
+| Portfolio Grid | Display images in portfolio in a grid | https://blog.pixelfreestudio.com/how-to-create-a-flexible-image-gallery-with-css-grid/ | <br>
