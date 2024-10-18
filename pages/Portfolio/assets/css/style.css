@@ -56,8 +56,8 @@ a {
 }
 
 .portfolio {
-  height: 300dvh;
-  padding-top: 5rem;
+  height: 280dvh;
+  padding-top: 7rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -71,6 +71,7 @@ a {
 }
 
 .pcontainer {
+    padding-top: 2rem;
     width: 1000px;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));

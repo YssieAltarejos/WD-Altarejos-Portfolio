@@ -70,7 +70,7 @@ body {
 }
 
 .hero {
-  height: 70dvh;
+  height: 75dvh;
   display: flex;
   flex-direction: column;
   justify-items: flex-end;
@@ -115,7 +115,7 @@ body {
 }
 
 #abtme {
-  height: 60dvh;
+  height: 80dvh;
   display: flex;
   align-items: center;
   justify-content: start;
@@ -130,6 +130,7 @@ body {
   display: flex;
   flex-direction: column;
   background: transparent;
+  padding-top: 5rem;
 
   h3 {
     color: #fcf7ff;
@@ -155,11 +156,11 @@ body {
 }
 
 .flow {
-  padding-top: 3rem;
+  padding-top: 8rem;
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 90dvh;
+  height: 100dvh;
   background-color: #00171f;
   h2 {
     text-transform: uppercase;
@@ -206,8 +207,8 @@ body {
 }
 
 #rworks {
-  height: 100dvh;
-  margin-top: 2rem;
+  height: 95dvh;
+  margin-top: 5rem;
   margin-left: 3rem;
   margin-bottom: 4rem;
 
@@ -246,7 +247,7 @@ body {
 }
 
 .rwork-img {
-  padding-top: 4rem;
+  padding-top: 2rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -275,6 +276,7 @@ body {
     background: transparent;
     display: flex;
     gap: 0.5rem;
+    padding-right: 1rem;
     a {
       background: transparent;
       img {

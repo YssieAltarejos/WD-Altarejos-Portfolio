@@ -6,10 +6,10 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logo-b-06.png" alt="Y_A" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center"></h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -18,8 +18,6 @@
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=YssieAltarejos/WD-Template-Project)
 
 ---
@@ -68,15 +66,13 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Redirecting LInks
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -115,8 +111,9 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
-| Title | Purpose | Link |
-|-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+| Icons | All icons used here were  downloaded from Icons8. | https://icons8.com/icons |
+| MailTo | Redirect to email. | https://blog.hubspot.com/website/html-mailto |
 | In-between image | Place image in between 2 sections.  | https://stackoverflow.com/questions/41917741/css-how-to-place-image-between-2-section-divs#:~:text=You%20can%20add%202%20parents,place%20it%20at%20desired%20position. |
 | Portfolio Grid | Display images in portfolio in a grid | https://blog.pixelfreestudio.com/how-to-create-a-flexible-image-gallery-with-css-grid/ |
