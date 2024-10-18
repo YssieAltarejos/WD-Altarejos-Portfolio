@@ -59,15 +59,23 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+      The project is to make a portofolio website that can serve as a resume for the students.
+
 - Whats the purpose
+      To make sure that the students can grasp how to use html and css in making a front-end website. The output can then be used by the students in showcasing and keeping track of their portfolio.
+
 - What are key components
+    Some of the key components of my portfolio is that it's a multipage website, it has links that will redirect you to my social media accounts and other contact info, and a photo gallery showcasing the projects.
+
 - What technology used and how it is used
+    This website was made using HTML and CSS. The HTML was used for making the structure of the website and its contents while the CSS was used for the formatting and aesthetics.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website
-- Redirecting LInks
+- Redirecting Links
+- Photo Gallery
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -115,5 +123,5 @@ WD-ProjectName
 
 | Icons | All icons used here were  downloaded from Icons8. | https://icons8.com/icons | <br>
 | MailTo | Redirect to email. | https://blog.hubspot.com/website/html-mailto | <br>
-| In-between image | Place image in between 2 sections.  | https://stackoverflow.com/questions/41917741/css-how-to-place-image-between-2-section-divs#:~:text=You%20can%20add%202%20parents,place%20it%20at%20desired%20position. | <br>
+| In-between image | Place image in between 2 sections.  | https://stackoverflow.com/questions/41917741css-how-to-place-image-between-2-section-divs#:~:text=You%20can%20add%202%20parents,place%20it%20at%20desired%20position. | <br>
 | Portfolio Grid | Display images in portfolio in a grid | https://blog.pixelfreestudio.com/how-to-create-a-flexible-image-gallery-with-css-grid/ | <br>
